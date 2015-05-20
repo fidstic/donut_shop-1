@@ -1,0 +1,15 @@
+body {
+  background-color: #42826c;
+  }
+section.bodySection, header, table {
+  background: #a5c77f;
+  border: 2px solid #002f32;
+  border-radius: 10px;
+  padding: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1, p {
+  text-align: center;
+  }
